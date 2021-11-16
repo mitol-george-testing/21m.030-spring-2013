@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music"
+    ],
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Dance"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e0d76f71-bdf0-5ca1-e880-ef82fdff5165"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to World Music",
+  "course_description": "This course is an introduction to diverse musical traditions of the world. Music from a wide range of geographical areas is studied in terms of structure, performance practice, social use, aesthetics, and cross-cultural contact. Course work includes hands-on music making, live demonstrations by guest artists, and ethnographic research projects.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.030",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
